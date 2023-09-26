@@ -1,6 +1,6 @@
 👋 Hello, I'm Amal Michael!
 
-🚀 Aspiring Python Django Intern | 💡 Passionate about Web Development | 🌐 Open Source Enthusiast
+🚀 Aspiring Python Django Developer | 💡 Passionate about Web Development | 🌐 Open Source Enthusiast
 
 📚 Computer Science Graduate from VTU 
 

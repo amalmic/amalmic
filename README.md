@@ -16,7 +16,7 @@
 
 🔗 Let's connect! Feel free to explore my repositories and reach out for collaborations and discussions.
 
-📫 Contact me at amalmic98@gmail.com |
+📫 Contact me at amalmic98@gmail.com | 7025598478
 
 🚀 Ready to embark on a journey of code, creativity, and collaboration. Let's build the web together!
 

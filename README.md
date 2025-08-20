@@ -3,7 +3,7 @@
 🚀 Aspiring Python Django Developer | 💡 Passionate about Web Development | 🌐 Open Source Enthusiast
 
 📚 Computer Science Graduate from VTU 
- Phone Number : 7025598478
+ Phone Number : +917025598478
 
 🔍 Here's what I bring to the table:
 
@@ -17,7 +17,7 @@
 
 🔗 Let's connect! Feel free to explore my repositories and reach out for collaborations and discussions.
 
-📫 Contact me at amalmic98@gmail.com 
+📫 Mail me at amalmic98@gmail.com 
    
 
 🚀 Ready to embark on a journey of code, creativity, and collaboration. Let's build the web together!

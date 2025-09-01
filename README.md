@@ -3,7 +3,6 @@
 🚀 Aspiring Python Django Developer | 💡 Passionate about Web Development | 🌐 Open Source Enthusiast
 
 📚 Computer Science Graduate from VTU 
- Phone Number : +917025598478
 
 🔍 Here's what I bring to the table:
 
